@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning dsa
 
 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/kunchala-sai-709426317/) X
+
+[LinkedIn](https://www.linkedin.com/in/kunchala-sai-709426317/)
 
 💻 Tech Stack:
+
 C  Java Python  Figma Arduino
   
 
